@@ -11,7 +11,7 @@
         font: 20px sans-serif;
         background-color: orange;
         text-align: left;
-        padding: 3px;           
+        padding: 3px;
         margin: 1px;
         color: steelblue;
         }
@@ -35,10 +35,10 @@
         var keys = [];
         d3.csv("winequality.csv", function(d) { //d3.csv를 사용해 winequality.csv를 json형태로 한 줄씩 읽음
             var keys = Object.keys(d); //column의 label을 저장함
-            temp.push(Object.values(d)); 
+            temp.push(Object.values(d));
             var dataset = Array.from(temp); //dataset에 2차원배열 형태로 값을 저장함
             if (dataset.length == 1599) { //마지막줄까지 다 읽으면 그래프를 그림
-                for (var i = 0; i < 12; i++) { 
+                for (var i = 0; i < 12; i++) {
                     var k = 0;
                     var taeho = [];
                 for (var j = 0; j < dataset.length; j++) {
@@ -67,6 +67,4 @@
         });
     </script>
   </body>
-</html>
-</body>
 </html>
