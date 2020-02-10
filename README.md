@@ -3,4 +3,4 @@
 ## 2. Made chart with d3.js
 ## 3. Data binding with restController
 ## 4. Final website
-![Click_AverageData](./4.Final-website/Click_AverageData.png)
+![Click_AverageData](./result_image/Click_AverageData.png)
