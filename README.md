@@ -1,4 +1,4 @@
-# Building a Web with "spring"
+# Build a Web with "spring"
 ## 1. Setting Web
 ![week1](./result_image/week1.png)
 ## 2. Made chart with d3.js
