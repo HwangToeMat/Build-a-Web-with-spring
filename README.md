@@ -7,7 +7,7 @@
 ## 3. Data binding with restController
 ![week3](./result_image/week3.png)
 ## 4. Final website
-### * If you click "TotalData"button, you can see all of the winequality data.
+### * If you click "TotalData", you can get all of the "WineQuality_data".
 ![week4_1](./result_image/week4_1.png)
-### * If you click "Click_AverageData"button, you can see average of the winequality data.
+### * If you click "Click_AverageData", you can get average of the "WineQuality_data".
 ![week4_2](./result_image/week4_2.png)
