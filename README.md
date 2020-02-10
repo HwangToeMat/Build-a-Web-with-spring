@@ -2,8 +2,8 @@
 ## 1. Setting Web
 ![week1](./result_image/week1.png)
 ## 2. Made chart with d3.js
-![week2_1](./result_image/week2_1.png)
-![week2_2](./result_image/week2_2.png)
+![week2_1](./result_image/week2_1.PNG)
+![week2_2](./result_image/week2_2.PNG)
 ## 3. Data binding with restController
 ![week3](./result_image/week3.png)
 ## 4. Final website
